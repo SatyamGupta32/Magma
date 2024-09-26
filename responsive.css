@@ -1,0 +1,1050 @@
+@media screen and (max-width:1300px) {
+    
+    .bottomContent {
+        top: 50%;
+        padding-left: 50px;
+    }
+
+    .bottomContent .bottom-top {
+        font-size: 60px;
+        font-weight: 300;
+        line-height: 70px;
+    }
+
+
+    .bottomContent .bottom-down {
+        width: 675px;
+    }
+    
+    .bottomContent .bottom-left {
+        display: flex;
+        flex-direction: column;
+        line-height: 35px;
+        font-size: 24px;
+        font-weight: 320;
+    }
+        
+    .bottomContent .bottom-right {
+        position: relative;
+        right: 0;
+        top: 0;
+        margin: 0;
+        max-width: 180px;
+        height: 60px;
+        font-size: 18px;
+        font-weight: 400;
+    }
+    .page2 {
+        padding: 100px 50px;
+    }
+
+    .page2 .heading {
+        font-size: 30px;
+    }
+
+    .page2 .page2Content {
+        word-spacing: -3px;
+        line-height: 70px;
+        font-size: 54px;
+        font-weight: 300;
+    }
+
+    .page4 {
+        padding: 100px 50px;
+    }
+
+    .page4 .heading4 {
+        font-size: 30px;
+    }
+
+    .page4 .page4Content {
+        word-spacing: -3px;
+        line-height: 70px;
+        font-size: 54px;
+        font-weight: 300;
+    }
+
+    .page6 {
+        padding: 100px 50px;
+    }
+
+    .page6 .heading6 {
+        font-size: 30px;
+    }
+
+    .page6 .page6Content {
+        word-spacing: -3px;
+        line-height: 70px;
+        font-size: 54px;
+        font-weight: 300;
+    }
+
+    .page9 {
+        flex-direction: column;
+        padding:30px 50px;
+        gap: 10px;
+        min-height: 70vh;
+    }
+
+    .page9 .heading9 {
+        font-size: 50px;
+        line-height: normal;
+        letter-spacing: 0px;
+    }
+
+    .page9 .heading9 .extra {
+        display: block;
+        height: 0;
+        width: 0%;
+    }
+
+    .page9 .image-container {
+        display: block;
+        width: 100%;
+        height: auto;
+    }
+
+    .page10 {
+        width: 100%;
+        min-height: 100vh;
+        padding: 0 20px;
+        display: flex;
+        align-items: start;
+        gap: 0;
+        margin-bottom: 150px;
+    }
+
+    .page10 .bottomHeading {
+        font-size: 25px;
+        font-weight: 400;
+        margin-top: 10px;
+    }
+
+    .page10 .bottom-bottomContent {
+        margin-bottom: 50px;
+        font-size: 25px;
+    }
+
+    .page11 {
+        position: relative;
+        z-index: 9;
+        width: 100%;
+        min-height: 100vh;
+        background-color: #fff;
+        padding: 50px 20px;
+    }
+
+    .page11 .heading11 {
+        font-size: 80px;
+        font-weight: 300;
+        letter-spacing: 0;
+    }
+
+    .page11 .bottom11Content .container {
+        flex-direction: row;
+    }
+
+    .page11 .bottom11Content .left-image {
+        width: 520px;
+        height: 200px;
+    }
+    .bottom11Content .buttonContainer {
+        padding-left: 0;
+    }
+    .page12 {
+        padding:100px 50px;
+    }
+
+    .page12 .top12Content {
+        position: relative;
+        right: 0;
+        top: 0;
+    }
+
+    .page12 .top12Content .top-content12 {
+        font-size: 50px;
+        font-weight: 300;
+        letter-spacing: 0;
+    }
+
+    .page12 .top12Content .bottom-content12 {
+        font-size: 28px;
+        font-weight: 200;
+        margin-top: 20px;
+        word-spacing: 0;
+    }
+
+    .page12 .bottom12Content {
+        top: 70%;
+    }
+
+    .page12 .bottom12Content .image-container {
+        height: 50px;
+        padding: 0 50px;
+    }
+
+    .page13 .adopter {
+        padding:100px 50px;
+        gap: 40px;
+        justify-content: space-between;
+    }
+
+    .page13 .adopter .heading13 {
+        flex-direction: column;
+        font-size: 50px;
+    }
+
+    .bottom13content .demo {
+        min-width: 160px;
+        height: 60px;
+    }
+
+    .bottom13content .demo div {
+        top: 18px;
+    }
+
+    .line {
+        width: 100%;
+        height: 1px;
+        background-color: rgba(255, 255, 255, .1);
+    }
+
+    .socialMedia {
+        height: 120px;
+        font-size: 25px;
+        font-weight: 350;
+        padding: 0 25px;
+        letter-spacing: 0;
+    }
+
+    .arrow .arrow-img {
+        display: flex;
+        width: 25px;
+        height: 25px;
+        transform: rotate(-45deg);
+    }
+
+    .page13 .footer {
+        display: flex;
+        flex-direction: column;
+        gap: 85px;
+        padding: 20px;
+    }
+
+
+    .page13 .footer .footer-top-left {
+        padding: 0;
+        justify-content: space-between;
+    }
+
+    .page13 .footer .footer-top-left ul {
+        font-size: 18px;
+        font-weight: 250;
+        line-height: 20px;
+        letter-spacing: 1;
+    }
+
+    .page13 .footer .subscribe {
+        width: 600px;
+    }
+
+    .page13 .footer .subscribe .headingSubscribe {
+        font-size: 25px;
+        font-weight: 350;
+    }
+
+    .page13 .footer .subscribe img {
+        position: absolute;
+        right: 0;
+        top: 60px;
+    }
+
+    .page13 .footer .footer-bottom {
+        font-size: 16px;
+        letter-spacing: 1;
+    }
+
+}
+
+@media screen and (max-width:1024px) {
+    .page1 .navbar {
+        padding: 40px;
+    }
+
+    .page1 .navbar .logo img {
+        width: 60px;
+        height: 60px;
+    }
+
+    .navbar .demoMenu .demo {
+        font-size: 20px;
+        font-weight: 400;
+    }
+
+    .demo {
+        min-width: 170px;
+        height: 50px;
+    }
+
+    .demo div {
+        top: 10px;
+        height: 25px;
+    }
+
+    .navbar .demoMenu .menu {
+        padding: 18px 20px;
+    }
+
+    .navbar .demoMenu .menu span {
+        width: 20px;
+    }
+
+    .bottomContent {
+        top: 50%;
+        padding-left: 50px;
+    }
+
+    .bottomContent .bottom-top {
+        font-size: 60px;
+        font-weight: 300;
+        line-height: 70px;
+    }
+
+    .bottomContent .bottom-down {
+        flex-direction: column;
+        gap: 10px;
+        line-height: 60px;
+        margin-top: 25px;
+    }
+
+    .bottomContent .bottom-left {
+        display: flex;
+        flex-direction: column;
+        line-height: 40px;
+        font-size: 32px;
+        font-weight: 320;
+    }
+
+    .bottomContent .bottom-right {
+        position: relative;
+        right: 0;
+        top: 0;
+        margin: 0;
+        max-width: 150px;
+        height: 60px;
+        font-size: 18px;
+        font-weight: 400;
+    }
+
+    .bottomContent .bottom-right span:last-child {
+        transform: translateY(-3px);
+    }
+
+    .bottomContent .bottom-right:hover span:last-child {
+        transform: translateY(-3px);
+    }
+
+    .page2 {
+        padding: 100px 50px;
+    }
+
+    .page2 .heading {
+        font-size: 20px;
+    }
+
+    .page2 .page2Content {
+        word-spacing: -3px;
+        line-height: 50px;
+        font-size: 32px;
+        font-weight: 300;
+    }
+
+    .page4 {
+        padding: 100px 50px;
+    }
+
+    .page4 .heading4 {
+        font-size: 20px;
+    }
+
+    .page4 .page4Content {
+        word-spacing: -3px;
+        line-height: 50px;
+        font-size: 32px;
+        font-weight: 300;
+    }
+
+    .page6 {
+        padding: 100px 50px;
+    }
+
+    .page6 .heading6 {
+        font-size: 20px;
+    }
+
+    .page6 .page6Content {
+        word-spacing: -3px;
+        line-height: 50px;
+        font-size: 32px;
+        font-weight: 300;
+    }
+
+    .page8 {
+        display: flex;
+        flex-direction: column;
+        justify-content: end;
+        align-items: center;
+    }
+
+    .page8 .textButton {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+        z-index: 9;
+        bottom: 0;
+        left: 0;
+        transform: translate(0);
+        margin-bottom: 100px;
+    }
+
+    .page8 .heading8 {
+        font-size: 60px;
+        font-weight: 320;
+        letter-spacing: 0px;
+    }
+
+    .page8 .bottom-right {
+        position: relative;
+        left: 0;
+        top: 0;
+        max-width: 180px;
+        height: 50px;
+    }
+
+    .page8 .bottom-right span:last-child {
+        transform: translateY(10px);
+    }
+
+    .page8 .bottom-right:hover span:first-child {
+        padding-top: 10px;
+    }
+
+    .page8 .bottom-right:hover span:last-child {
+        transform: translateY(-28px);
+        color: #fff;
+    }
+
+    .page9 {
+        flex-direction: column;
+        padding: 100px 50px;
+        gap: 10px;
+        min-height: 70vh;
+    }
+
+    .page9 .heading9 {
+        font-size: 50px;
+        line-height: normal;
+        letter-spacing: 0px;
+    }
+
+    .page9 .heading9 .extra {
+        display: block;
+        height: 0;
+        width: 0%;
+    }
+
+    .page9 .image-container {
+        display: block;
+        width: 100%;
+        height: auto;
+    }
+
+    .page10 {
+        width: 100%;
+        min-height: 100vh;
+        padding: 0 20px;
+        display: flex;
+        align-items: start;
+        gap: 0;
+        margin-bottom: 150px;
+    }
+
+    .page10 .bottomHeading {
+        font-size: 25px;
+        font-weight: 400;
+        margin-top: 10px;
+    }
+
+    .page10 .bottom-bottomContent {
+        margin-bottom: 50px;
+        font-size: 25px;
+    }
+
+    .page11 {
+        position: relative;
+        z-index: 9;
+        width: 100%;
+        min-height: 100vh;
+        background-color: #fff;
+        padding: 50px 20px;
+    }
+
+    .page11 .heading11 {
+        font-size: 50px;
+        font-weight: 300;
+        letter-spacing: 0;
+    }
+
+    .page11 .bottom11Content .container {
+        flex-direction: column;
+    }
+
+    .page11 .bottom11Content .left-image {
+        width: 100%;
+        height: 500px;
+    }
+
+    .page12 {
+        padding:100px 50px;
+    }
+
+    .page12 .top12Content {
+        position: relative;
+        right: 0;
+        top: 0;
+    }
+
+    .page12 .top12Content .top-content12 {
+        font-size: 50px;
+        font-weight: 300;
+        letter-spacing: 0;
+    }
+
+    .page12 .top12Content .bottom-content12 {
+        font-size: 28px;
+        font-weight: 200;
+        margin-top: 20px;
+        word-spacing: 0;
+    }
+
+    .page12 .bottom12Content {
+        top: 50%;
+    }
+
+    .page12 .bottom12Content .image-container {
+        height: 50px;
+        padding: 0 50px;
+    }
+
+    .page13 .adopter {
+        padding:100px 50px;
+        gap: 40px;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .page13 .adopter .heading13 {
+        flex-direction: row;
+        font-size: 20px;
+        font-weight: 250;
+        gap: 8px;
+        line-height: normal;
+
+
+    }
+
+    .bottom13content .demo {
+        width: 120px;
+        min-width: 140px;
+        height: 40px;
+        text-decoration: none;
+        font-weight: 300;
+        font-size: 15px;
+    }
+
+    .bottom13content .demo div {
+        top: 10px;
+    }
+
+    .line {
+        width: 100%;
+        height: 1px;
+        background-color: rgba(255, 255, 255, .1);
+    }
+
+    .socialMedia {
+        height: 80px;
+        font-size: 25px;
+        font-weight: 350;
+        padding: 0 25px;
+        letter-spacing: 0;
+    }
+
+    .arrow .arrow-img {
+        display: flex;
+        width: 25px;
+        height: 25px;
+        transform: rotate(-45deg);
+    }
+
+    .page13 .footer {
+        display: flex;
+        flex-direction: column;
+        gap: 85px;
+        padding: 20px;
+    }
+
+
+    .page13 .footer .footer-top-left {
+        gap: 40px;
+        padding: 0;
+    }
+
+    .page13 .footer .footer-top-left ul {
+        font-size: 18px;
+        font-weight: 250;
+        line-height: 30px;
+        letter-spacing: 1;
+    }
+
+    .page13 .footer .subscribe {
+        width: 400px;
+    }
+
+    .page13 .footer .subscribe .headingSubscribe {
+        font-size: 25px;
+        font-weight: 350;
+    }
+
+    .page13 .footer .subscribe img {
+        position: absolute;
+        right: 0;
+        top: 60px;
+    }
+
+    .page13 .footer .footer-bottom {
+        font-size: 16px;
+        letter-spacing: 1;
+    }
+
+}
+
+@media screen and (max-width:640px) {
+    .page1 .navbar {
+        padding: 20px;
+    }
+
+    .page1 .navbar .logo img {
+        width: 50px;
+        height: 50px;
+    }
+
+    .navbar .demoMenu .demo {
+        font-size: 14px;
+        font-weight: 500;
+    }
+
+    .demo {
+        min-width: 130px;
+        height: 32px;
+    }
+
+    .demo div {
+        position: relative;
+        top: 5px;
+        width: 100%;
+        height: 20px;
+        overflow: hidden;
+        cursor: pointer;
+    }
+
+    .navbar .demoMenu .menu {
+        padding: 10px 12px;
+    }
+
+    .navbar .demoMenu .menu span {
+        width: 15px;
+        height: 1px;
+    }
+
+    .bottomContent {
+        top: 50%;
+        padding-left: 20px;
+    }
+
+    .bottomContent .bottom-top {
+        font-size: 35px;
+        font-weight: 300;
+        line-height: 40px;
+    }
+
+    .bottomContent .bottom-down {
+        flex-direction: column;
+        gap: 10px;
+        line-height: 52px;
+        margin-top: 25px;
+    }
+
+    .bottomContent .bottom-left {
+        display: flex;
+        flex-direction: column;
+        line-height: 30px;
+        font-size: 18px;
+        font-weight: 220;
+    }
+
+    .bottomContent .bottom-right {
+        position: relative;
+        right: 0;
+        top: 0;
+        margin: 0;
+        max-width: 130px;
+        height: 48px;
+        font-size: 12px;
+        font-weight: 400;
+    }
+
+    .bottomContent .bottom-right span:last-child {
+        transform: translateY(-3px);
+    }
+
+    .bottomContent .bottom-right:hover span:last-child {
+        transform: translateY(-3px);
+    }
+
+    .page2 {
+        padding: 50px 10px;
+    }
+
+    .page2 .heading {
+        font-size: 13px;
+        font-weight: 300;
+        word-spacing: 0px;
+    }
+
+    .page2 .page2Content {
+        word-spacing: -3px;
+        line-height: 30px;
+        font-size: 17px;
+        font-weight: 300;
+    }
+
+
+    .page4 {
+        padding: 50px 20px;
+    }
+
+    .page4 .heading4 {
+        font-size: 13px;
+        font-weight: 300;
+        word-spacing: 0px;
+    }
+
+    .page4 .page4Content {
+        word-spacing: -3px;
+        line-height: 30px;
+        font-size: 17px;
+        font-weight: 300;
+    }
+
+    .page6 {
+        padding: 50px 20px;
+    }
+
+    .page6 .heading6 {
+        font-size: 12.5px;
+        font-weight: 260;
+        word-spacing: 0px;
+    }
+
+    .page6 .page6Content {
+        word-spacing: -3px;
+        line-height: 30px;
+        font-size: 16px;
+        font-weight: 300;
+    }
+
+    .page8 {
+        display: flex;
+        flex-direction: column;
+        justify-content: end;
+        align-items: center;
+    }
+
+    .page8 .textButton {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+        z-index: 9;
+        bottom: 0;
+        left: 0;
+        transform: translate(0);
+        margin-bottom: 100px;
+    }
+
+    .page8 .heading8 {
+        font-size: 32px;
+        font-weight: 320;
+        letter-spacing: 0px;
+    }
+
+    .page8 .bottom-right {
+        position: relative;
+        left: 0;
+        top: 0;
+        max-width: 150px;
+        height: 42px;
+        font-weight: 400;
+        font-size: 14px;
+    }
+
+    .page8 .bottom-right span:last-child {
+        transform: translateY(10px);
+    }
+
+    .page8 .bottom-right:hover span:first-child {
+        padding-top: 10px;
+    }
+
+    .page8 .bottom-right:hover span:last-child {
+        transform: translateY(-28px);
+        color: #fff;
+    }
+
+    .page9 {
+        flex-direction: column;
+        padding: 20px;
+        gap: 10px;
+        min-height: 50vh;
+    }
+
+    .page9 .heading9 {
+        font-size: 32px;
+        line-height: normal;
+        letter-spacing: 0px;
+    }
+
+    .page9 .heading9 .extra {
+        display: block;
+        height: 0;
+        width: 0%;
+    }
+
+    .page9 .image-container {
+        display: block;
+        width: 100%;
+        height: auto;
+    }
+
+    .page10 {
+        width: 100%;
+        min-height: 100vh;
+        padding: 0 20px;
+        display: flex;
+        align-items: start;
+        gap: 0;
+        margin-bottom: 150px;
+    }
+
+    .page10 .bottomHeading {
+        font-size: 20px;
+        font-weight: 400;
+        margin-top: 10px;
+    }
+
+    .page10 .bottom-bottomContent {
+        margin-top: 13px;
+        font-size: 18px;
+        font-weight: 300;
+        color: rgba(255, 255, 255, 0.8);
+    }
+
+    .page11 {
+        position: relative;
+        z-index: 9;
+        width: 100%;
+        min-height: 100vh;
+        background-color: #fff;
+        padding: 50px 20px;
+    }
+
+    .page11 .heading11 {
+        font-size: 50px;
+        font-weight: 300;
+        letter-spacing: 0;
+    }
+
+    .page11 .bottom11Content .container {
+        flex-direction: column;
+    }
+
+
+    .page11 .bottom11Content .left-image {
+        width: 100%;
+        height: 200px;
+    }
+
+    .container .right-topContent {
+        font-size: 15px;
+    }
+
+    .container .right-bottomContent {
+        font-family: "jost", serif;
+        font-size: 18px;
+        font-weight: 350;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .bottom11Content .buttonContainer {
+        padding-left: 0;
+        margin-bottom: 100px;
+    }
+
+    .bottom11Content .button {
+        padding: 8px 26px;
+        margin-top: 20px;
+        font-size: 14px;
+        font-weight: 300;
+    }
+
+    .page12 {
+        padding: 50px 20px;
+    }
+
+    .page12 .top12Content {
+        position: relative;
+        right: 0;
+        top: 0;
+    }
+
+    .page12 .top12Content .top-content12 {
+        font-size: 50px;
+        font-weight: 300;
+        letter-spacing: 0;
+    }
+
+    .page12 .top12Content .bottom-content12 {
+        font-size: 15px;
+        font-weight: 200;
+        margin-top: 20px;
+        word-spacing: 0;
+    }
+
+    .page12 .bottom12Content {
+        top: 50%;
+    }
+
+    .page12 .bottom12Content .image-container {
+        height: 30px;
+        display: inline-block;
+        padding: 0 50px;
+    }
+
+    .page13 .adopter {
+        padding: 50px 20px;
+        gap: 40px;
+    }
+
+    .page13 .adopter .heading13 {
+        flex-direction: row;
+        font-size: 20px;
+        font-weight: 250;
+        gap: 8px;
+        line-height: normal;
+
+
+    }
+
+    .bottom13content .demo {
+        width: 120px;
+        min-width: 140px;
+        height: 40px;
+        text-decoration: none;
+        font-weight: 300;
+        font-size: 15px;
+    }
+
+    .bottom13content .demo div {
+        top: 10px;
+    }
+
+    .line {
+        width: 100%;
+        height: 1px;
+        background-color: rgba(255, 255, 255, .1);
+    }
+
+    .socialMedia {
+        height: 80px;
+        font-size: 25px;
+        font-weight: 350;
+        padding: 0 25px;
+        letter-spacing: 0;
+    }
+
+    .arrow .arrow-img {
+        display: flex;
+        width: 25px;
+        height: 25px;
+        transform: rotate(-45deg);
+    }
+
+    .page13 .footer {
+        display: flex;
+        flex-direction: column;
+        gap: 85px;
+        padding: 20px;
+        color: #fff;
+    }
+
+    .page13 .footer .footer-top {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        justify-content: space-between;
+    }
+
+    .page13 .footer .footer-top-left {
+        gap: 0;
+        justify-content: space-between;
+        padding: 0 10px;
+    }
+
+    .page13 .footer .footer-top-left ul {
+        font-size: 16px;
+        font-weight: 250;
+        line-height: 15px;
+        letter-spacing: 1;
+    }
+
+    .page13 .footer .subscribe {
+        width: 100%;
+    }
+
+    .page13 .footer .subscribe .headingSubscribe {
+        font-size: 18px;
+        font-weight: 350;
+    }
+
+    .page13 .footer .subscribe img {
+        position: absolute;
+        right: 0;
+        transform: rotate(0);
+        width: 25px;
+        height: 40px;
+        top: 60px;
+    }
+
+    .page13 .footer .footer-bottom {
+        font-size: 18px;
+        font-weight: 350;
+        line-height: 33px;
+        letter-spacing: 0.5px;
+    }
+
+}
